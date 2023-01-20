@@ -1,0 +1,11 @@
+.sdp {
+  --theme-color: #000000 !important; /* violet color */
+
+  --selected-date-color: #ff0000 !important;
+  background: #f0f0f5 !important;
+  color: #000000 !important;
+
+  --disabled-color: rgb(126, 121, 121) !important;
+
+  --font: 'Kollektif', sans-serif !important;
+}
